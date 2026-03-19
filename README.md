@@ -1,129 +1,177 @@
-# 🇦🇺 Australia Trade Analysis (1989–2024)
-### Data-Driven Insights into Export Dependency, Energy Transition & Future Trade Trends
+# Australia Trade Analysis (1989–2024)
 
-## 📌 Overview
-This project analyses over **35 years of Australian international trade data (1989–2024)** to uncover long-term economic patterns, industry dependencies, and future trade risks.
-
-Using **Excel and Tableau**, this project transforms raw trade data into analytical and statistical insights, with a deep focus on Australia's **energy sector transition from coal to cleaner fuels**.
-
-> 🔥 Key Finding:  
-Australia’s export economy is still heavily reliant on coal, but **global renewable energy transitions are driving a structural decline**, while **petroleum imports continue to increase**, highlighting long-term energy dependency risks.
+A data-driven analysis of Australia’s international trade, identifying structural dependencies, energy transition risks, and future export trends using 35 years of data.
 
 ---
 
-## 🎯 Business Problem
-Australia’s economy depends heavily on trade. However:
-- Which industries drive exports vs imports?
-- Is Australia becoming more dependent on foreign resources?
-- What risks exist in the transition away from fossil fuels?
+## Overview
 
-This project answers these questions through **data visualisation, forecasting, and AI comparison**.
+This project analyses Australian trade data from 1989 to 2024 to uncover:
 
----
+* Export concentration in natural resources
+* Import dependence in manufacturing and energy
+* Structural shifts driven by global energy transition
 
-## 🛠️ Tools & Skills Demonstrated
-- **Tableau** → Dashboarding & storytelling
-- **Excel** → Data transformation & analytical modelling
-- **Data Analysis** → Trend analysis, outlier detection, forecasting
-- **Business Insight** → Economic interpretation & policy implications
-- **AI Integration** → Comparing human vs AI-driven analysis
+The analysis combines **data visualisation, statistical patterns, and forecasting** to provide economic and business insights.
 
 ---
 
-## 📊 Dataset
-- Source: Australian Bureau of Statistics (ABS)
-- Timeframe: 1989–2024
-- Coverage:
-  - 10 main trade categories
-  - 67 subcategories
-  - Import & Export values
+## Dashboard
+
+![Dashboard](INSERT_MAIN_DASHBOARD_IMAGE)
 
 ---
 
-## 🔍 Key Insights
+## Business Problem
 
-### 1. Australia is Resource-Export Dominant
-- Export sectors are dominated by **mineral fuels and raw materials**
-- Reflects strong reliance on natural resources
+Australia’s economy is highly trade-dependent. However, key risks remain unclear:
 
-### 2. Heavy Dependence on Imports for Manufacturing
-- Machinery, chemicals, and manufactured goods dominate imports
-- Indicates **limited domestic production capacity**
+* How concentrated are exports across industries?
+* Which sectors rely heavily on imports?
+* What are the implications of declining fossil fuel demand?
 
-### 3. Coal Dominance is Declining (Critical Insight)
-- Coal historically contributed **~60%+ of energy exports**
-- Now gradually declining due to:
-  - Global renewable energy adoption
-  - Net-zero commitments
-  - Reduced demand from key partners (e.g., Japan)
-
-### 4. Petroleum Import Dependency is Increasing
-- Petroleum accounts for **~97% of fuel imports**
-- Highlights **energy security risk**
-
-### 5. Major Global Events Impact Trade
-- 2009 → Global Financial Crisis (export collapse)
-- 2020 → COVID-19 (sharp trade disruption)
-- 2022 → Energy crisis (coal export spike)
+This project addresses these questions using data-driven analysis.
 
 ---
 
-## ⚡ Deep Dive: Energy Sector (Mineral Fuels)
+## Dataset
 
-### Export Shift
-- Coal → Declining long-term share
-- Natural Gas → Rapid growth due to LNG investment
-- Petroleum → Declining exports
+* Source: Australian Bureau of Statistics (ABS)
+* Timeframe: 1989–2024
+* Coverage:
+
+  * 10 major trade categories
+  * 67 subcategories
+  * Import and export values
+
+---
+
+## Methodology
+
+* Data transformation and cleaning in Excel
+* Analytical pattern: Year-on-year change (%)
+* Statistical pattern: Category contribution (%)
+* Visualisation and dashboarding in Tableau
+* Forecasting based on historical trend behaviour
+
+---
+
+## Key Insights
+
+### Export Structure
+
+![Exports](INSERT_EXPORT_GRAPH)
+
+Australia’s exports are dominated by mineral fuels and raw materials, indicating strong reliance on natural resource industries.
+
+---
+
+### Import Dependence
+
+![Imports](INSERT_IMPORT_GRAPH)
+
+Imports are concentrated in machinery, chemicals, and manufactured goods, highlighting limited domestic production capacity.
+
+---
+
+### Coal Export Trend
+
+![Coal](INSERT_COAL_GRAPH)
+
+Coal remains a major export in absolute value, but its share is declining over time due to global energy transition.
+
+---
+
+### Energy Import Risk
+
+![Petroleum](INSERT_PETROLEUM_GRAPH)
+
+Petroleum accounts for the majority of fuel imports, creating long-term energy dependency risks.
+
+---
+
+### Impact of Global Events
+
+![Events](INSERT_EVENTS_GRAPH)
+
+Trade patterns show clear disruptions during major global events:
+
+* 2009: Global Financial Crisis
+* 2020: COVID-19 pandemic
+* 2022: Global energy crisis
+
+---
+
+## Energy Sector Analysis
+
+### Export Composition Shift
+
+![Energy Export](INSERT_ENERGY_EXPORT_GRAPH)
+
+There is a structural shift from coal toward natural gas exports, driven by LNG investment and global demand for cleaner energy.
+
+---
 
 ### Import Structure
-- Petroleum dominates imports (~97%)
-- Gas imports spike temporarily during infrastructure transitions
+
+![Energy Import](INSERT_ENERGY_IMPORT_GRAPH)
+
+Australia remains highly dependent on imported petroleum despite strong domestic energy resources.
 
 ---
 
-## 📈 Forecast: Coal Exports (2015–2029)
+## Forecast
 
-- 2015–2024: Strong recovery (≈ +$48B growth)
-- 2025–2029: Gradual decline expected (~$75B)
+![Forecast](INSERT_FORECAST_GRAPH)
 
-**Reason:**
-- Global shift toward renewable energy
-- Reduced demand from major importers
-- Net-zero emission targets
+Coal exports are expected to gradually decline over the next five years due to:
 
----
-
-## 🤖 AI vs Tableau Analysis
-
-### AI Strengths
-- Fast pattern detection
-- Quick forecasting
-- Identifies outliers (e.g., 2022 energy spike)
-
-### AI Limitations
-- Lacks real-world context (policy, economics)
-- Less control over visualisation
-- Lower precision in interpretation
-
-### Key Takeaway
-> Tableau provides **higher accuracy and control**, while AI offers **speed and scalability**.
+* Renewable energy adoption
+* Net-zero emission policies
+* Reduced demand from major trading partners
 
 ---
 
-## 💡 Business Recommendations
+## Tools and Skills
 
-- **Diversify export economy**
-  → Reduce reliance on coal exports
-
-- **Invest in renewable energy industries**
-  → Align with global demand shifts
-
-- **Strengthen domestic fuel production**
-  → Reduce petroleum import dependency
-
-- **Leverage LNG as a transition strategy**
-  → Short-to-medium term opportunity
+* Tableau (data visualisation and dashboards)
+* Excel (data transformation and modelling)
+* Data analysis (trend analysis, forecasting, outlier detection)
+* Business analysis (economic interpretation and trade risk assessment)
 
 ---
 
-## 📁 Repository Structure
+## Key Takeaways
+
+* Australia’s export economy is highly resource-dependent
+* Import reliance in manufacturing and energy presents structural risks
+* The energy transition is reshaping trade patterns
+* LNG provides a short-term transition opportunity
+
+---
+
+## Limitations
+
+* Forecasting is based on historical trends and does not incorporate policy changes or real-time market shocks
+* AI-assisted analysis lacks contextual economic interpretation compared to manual analysis
+
+---
+
+## Future Improvements
+
+* Implement forecasting models in Python (ARIMA, Prophet)
+* Deploy an interactive dashboard (Tableau Public or Streamlit)
+* Integrate real-time trade data sources
+
+---
+
+## Live Dashboard
+
+INSERT_LINK_TO_TABLEAU_PUBLIC
+
+---
+
+## Author
+
+Solvin Kang
+Data Analytics | Business Intelligence | Economic Analysis
