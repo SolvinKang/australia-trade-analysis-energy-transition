@@ -18,7 +18,7 @@ The analysis combines **data visualisation, statistical patterns, and forecastin
 
 ## Dashboard
 
-![Dashboard](INSERT_MAIN_DASHBOARD_IMAGE)
+<img width="443" height="352" alt="image" src="https://github.com/user-attachments/assets/8d8a473c-28ed-400b-810c-8575c031adb4" />
 
 ---
 
