@@ -68,7 +68,8 @@ Australia’s exports are dominated by mineral fuels and raw materials, indicati
 
 ### Import Dependence
 
-![Imports](INSERT_IMPORT_GRAPH)
+<img width="477" height="350" alt="image" src="https://github.com/user-attachments/assets/3713b886-4866-405a-baf8-df15430fb15d" />
+
 
 Imports are concentrated in machinery, chemicals, and manufactured goods, highlighting limited domestic production capacity.
 
@@ -76,7 +77,8 @@ Imports are concentrated in machinery, chemicals, and manufactured goods, highli
 
 ### Coal Export Trend
 
-![Coal](INSERT_COAL_GRAPH)
+<img width="452" height="323" alt="image" src="https://github.com/user-attachments/assets/72588354-f12f-48c8-880f-686a58fbdf1a" />
+
 
 Coal remains a major export in absolute value, but its share is declining over time due to global energy transition.
 
@@ -106,7 +108,8 @@ Trade patterns show clear disruptions during major global events:
 
 ### Export Composition Shift
 
-![Energy Export](INSERT_ENERGY_EXPORT_GRAPH)
+<img width="491" height="281" alt="image" src="https://github.com/user-attachments/assets/ea3ce295-b9d0-4071-9d31-624d8cfea108" />
+
 
 There is a structural shift from coal toward natural gas exports, driven by LNG investment and global demand for cleaner energy.
 
@@ -114,7 +117,8 @@ There is a structural shift from coal toward natural gas exports, driven by LNG 
 
 ### Import Structure
 
-![Energy Import](INSERT_ENERGY_IMPORT_GRAPH)
+<img width="452" height="319" alt="image" src="https://github.com/user-attachments/assets/694a6088-00fb-45f1-a0c4-343a2f7889b3" />
+
 
 Australia remains highly dependent on imported petroleum despite strong domestic energy resources.
 
@@ -122,7 +126,8 @@ Australia remains highly dependent on imported petroleum despite strong domestic
 
 ## Forecast
 
-![Forecast](INSERT_FORECAST_GRAPH)
+<img width="452" height="320" alt="image" src="https://github.com/user-attachments/assets/571f73bb-cdcf-4205-ad96-97c011bfef11" />
+
 
 Coal exports are expected to gradually decline over the next five years due to:
 
@@ -163,11 +168,6 @@ Coal exports are expected to gradually decline over the next five years due to:
 * Deploy an interactive dashboard (Tableau Public or Streamlit)
 * Integrate real-time trade data sources
 
----
-
-## Live Dashboard
-
-INSERT_LINK_TO_TABLEAU_PUBLIC
 
 ---
 
